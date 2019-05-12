@@ -1,0 +1,31 @@
+[{
+    "id":123,
+    "title":"Ryzen 5 1600",
+    "desc":"Процессор",
+    "img":"1.png",
+    "price":10000
+},{
+    "id":456,
+    "title":"GeForce GTX 1070",
+    "desc":"Видеокарта",
+    "img":"2.png",
+    "price":25000
+},{
+    "id":789,
+    "title":"ASUS PRIME H270",
+    "desc":"Материнская плата",
+    "img":"3.png",
+    "price":10000
+},{
+    "id":987,
+    "title":"CORSAIR Vengeance",
+    "desc":"Оперативная память",
+    "img":"4.png",
+    "price":9900
+},{
+    "id":654,
+    "title":"AEROCOOL VX",
+    "desc":"Блок питания",
+    "img":"5.png",
+    "price":1300
+}]
